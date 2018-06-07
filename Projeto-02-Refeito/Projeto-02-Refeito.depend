@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1528303279 source:/home/sandro/Documents/Projeto-02-Refeito/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Apartamento.h"
+	"Endereco.h"
+	"Casa.h"
+	"SistemaImobiliaria.h"
+	"Flat.h"
+	"Studio.h"
+
+1528267760 source:/home/sandro/Documents/Projeto-02-Refeito/src/Casa.cpp
+	"Casa.h"
+	"Endereco.h"
+	"Imovel.h"
+	"SistemaImobiliaria.h"
+	<iostream>
+
+1528267760 /home/sandro/Documents/Projeto-02-Refeito/include/Casa.h
+	"Endereco.h"
+	"Imovel.h"
+	"SistemaImobiliaria.h"
+	<iostream>
+
+1528250017 /home/sandro/Documents/Projeto-02-Refeito/include/Endereco.h
+	<string>
+
+1528264149 /home/sandro/Documents/Projeto-02-Refeito/include/Imovel.h
+	"Endereco.h"
+
+1528250017 source:/home/sandro/Documents/Projeto-02-Refeito/src/Endereco.cpp
+	"Endereco.h"
+
+1528264172 source:/home/sandro/Documents/Projeto-02-Refeito/src/Imovel.cpp
+	"Imovel.h"
+	"Endereco.h"
+	<iostream>
+
+1528300972 source:/home/sandro/Documents/Projeto-02-Refeito/src/Apartamento.cpp
+	"Apartamento.h"
+	"Endereco.h"
+	"Imovel.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1528253866 /home/sandro/Documents/Projeto-02-Refeito/include/Apartamento.h
+	<string>
+	"Endereco.h"
+	"Imovel.h"
+
+1528305087 source:/home/sandro/Documents/Projeto-02-Refeito/src/SistemaImobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"Endereco.h"
+	"Imovel.h"
+	<iostream>
+	"Apartamento.h"
+	"Casa.h"
+	"Terreno.h"
+	<vector>
+	<cstdio>
+	"Flat.h"
+	"Studio.h"
+
+1528298741 /home/sandro/Documents/Projeto-02-Refeito/include/SistemaImobiliaria.h
+	<string>
+	"Endereco.h"
+	"Imovel.h"
+	<iostream>
+
+1528258002 source:/home/sandro/Documents/Projeto-02-Refeito/src/Terreno.cpp
+	"Terreno.h"
+	"Endereco.h"
+	"Imovel.h"
+	<iostream>
+
+1528258002 /home/sandro/Documents/Projeto-02-Refeito/include/Terreno.h
+	"Endereco.h"
+	"Imovel.h"
+
+1528297175 source:/home/sandro/Documents/Projeto-02-Refeito/src/Flat.cpp
+	"Flat.h"
+	<string>
+	"Endereco.h"
+	"Imovel.h"
+	"Apartamento.h"
+	<iostream>
+
+1528297158 /home/sandro/Documents/Projeto-02-Refeito/include/Flat.h
+	<string>
+	"Endereco.h"
+	"Imovel.h"
+	"Apartamento.h"
+
+1528298424 source:/home/sandro/Documents/Projeto-02-Refeito/src/Studio.cpp
+	"Studio.h"
+	<string>
+	"Endereco.h"
+	"Imovel.h"
+	"Apartamento.h"
+	<iostream>
+
+1528298369 /home/sandro/Documents/Projeto-02-Refeito/include/Studio.h
+	<string>
+	"Endereco.h"
+	"Imovel.h"
+	"Apartamento.h"
+	<iostream>
+
